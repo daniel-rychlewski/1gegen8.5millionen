@@ -1,0 +1,79 @@
+Connecting to api.anti-captcha.com
+Task ID: 13264
+Waiting for 3 seconds...
+Requesting the task status
+The task is still processing...
+Requesting the task status
+The task is still processing...
+Requesting the task status
+The task is still processing...
+Requesting the task status
+The task is still processing...
+Requesting the task status
+The task is still processing...
+Requesting the task status
+The task is still processing...
+Requesting the task status
+The task is still processing...
+Requesting the task status
+The task is still processing...
+Requesting the task status
+The task is still processing...
+Requesting the task status
+The task is still processing...
+Requesting the task status
+The task is still processing...
+Requesting the task status
+The task is still processing...
+Requesting the task status
+The task is still processing...
+Requesting the task status
+The task is still processing...
+Requesting the task status
+The task is complete!
+Result: 03AERXpgRkIMCLt
+
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+<link rel="stylesheet" href="style.css" type="text/css" />
+<title>SRF 1 gegen 100</title>
+</head>
+<body>
+<div id="container">
+  <div id="header">
+<img src="http://webdata.twister.ch/GT/SRF/srf_logo.jpg" height="90" alt="" align="left">
+</div>
+
+<div id="content">
+
+   <span class="article-title__text">1 gegen 100</span>
+
+
+
+
+                <meta forua="true" http-equiv="Cache-Control" content="must-revalidate" />
+                <title>SRF 1 gegen 100</title>
+
+        <form name="form1">
+                <onevent type="onenterbackward">
+                        <go href="" />
+                </onevent>
+                        <br>
+                        Vielen Dank für Ihre Teilnahme.<br /><br />
+                </p>
+        </form>
+
+
+
+</div>
+  <div style="clear:both;"></div>
+</body>
+</form>
+
+
+
+
+
+Process finished with exit code 0
